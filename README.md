@@ -1,5 +1,3 @@
-# README for CCWC Project
-
 ## Overview
 
 The CCWC ([Coding Challenges Word Count](https://codingchallenges.fyi/challenges/challenge-wc)) is a custom command-line interface (CLI) tool designed to implement various text file analysis functions, similar to the Unix `wc` command. This tool is developed as part of a series of coding challenges, aiming to demonstrate proficiency in Go programming, particularly in creating CLI applications and handling file and input/output operations.
